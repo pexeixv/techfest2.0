@@ -1,0 +1,104 @@
+{
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "editor.minimap.enabled": false,
+  "git.enabled": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "workbench.activityBar.visible": true,
+  "C_Cpp.updateChannel": "Insiders",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.semanticHighlighting.enabled": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "python.languageServer": "Pylance",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine: ": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "liveServer.settings.NoBrowser": false,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "editor.fontFamily": "'Fira Code iScript','FiraCode Nerd Font','Cascadia Code', 'Courier New', monospace",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.fontLigatures": true,
+  "sync.gist": "VSCode",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.titleSeparator": " | ",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "syler.sass-indented"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "sasa.vscode-sass-format"
+  },
+  "terminal.integrated.gpuAcceleration": "no",
+  "workbench.colorTheme": "Night Owl",
+  "terminal.integrated.tabs.enabled": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.inlineSuggest.enabled": true,
+  "projectManager.git.baseFolders": ["D:/WebDev"],
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.enabled": false,
+  "emmet.includeLanguages": {
+    "njk": "html"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "telemetry.enableTelemetry": false,
+  "liveSassCompile.settings.autoprefix": [],
+  "settingsSync.ignoredExtensions": ["redhat.java"],
+  "breadcrumbs.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "git.confirmSync": false,
+  "terminal.integrated.fontFamily": "'FiraCode Nerd Font'",
+  "workbench.sideBar.location": "right",
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "[njk]": {
+    "editor.defaultFormatter": "eseom.nunjucks-template"
+  },
+  "evenBetterToml.formatter.allowedBlankLines": 3,
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "howIVSCode.userIdentificationKey": "1bb4d413f371f7258b407bb319a346",
+  "javascript.format.enable": false,
+  "window.zoomLevel": -1
+}
